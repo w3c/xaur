@@ -1,5 +1,6 @@
+# XR Accessibility User Requirements
 
-# Specification 'xaur'
+This is the repository for *XR Accessibility User Requirements*, maintained by the [Research Questions Task Force](https://www.w3.org/WAI/APA/task-forces/research-questions/) of the [Accessible Platform Architectures Working Group](https://www.w3.org/WAI/APA/).
 
-This is the repository for xaur. You're welcome to contribute! Let's make the Web rock our socks
-off!
+Contributions are welcome, including new GitHub issues or pull requests.
+
