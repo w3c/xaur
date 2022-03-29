@@ -4,3 +4,4 @@ This is the repository for *XR Accessibility User Requirements*, maintained by t
 
 Contributions are welcome, including new GitHub issues or pull requests.
 
+Latest editor's draft: https://w3c.github.io/xaur/
